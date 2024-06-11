@@ -1,0 +1,12 @@
+{
+  "name": "tarea-devops",
+  "version": "1.0.0",
+  "description": "\"# devops-home-pages\" \r \"# devops-home-pages\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
