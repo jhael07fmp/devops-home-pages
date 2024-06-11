@@ -1,6 +1,7 @@
 // index.js
 function holaMundo() {
-  alert("Hola, Mundo!");
+  const response = "Hola, Mundo!";
+  return response;
 }
 
 // Exportar la función para pruebas unitarias
